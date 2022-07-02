@@ -1,5 +1,0 @@
-Hey, I am learning the new git command its really amzing to learn these thing i am really excited
-got it Press ESC + :wq --> save the file and exit
-       Press ESC + :q! --> quit the file without last mofied recent made chages
-       Pres ESC +  :w --> save the file but not exit
-
