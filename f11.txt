@@ -1,1 +1,3 @@
+ i am also do the changes into the same line can you please resolve the merge conflict 
+ yeah sure
  Hey I am doing the cherry pick command form -> git cherry-pick commit_id   on the master brach and pick the commit from the feature branh
